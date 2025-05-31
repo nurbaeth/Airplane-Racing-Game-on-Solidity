@@ -16,7 +16,7 @@ The first player to cross the finish line at 100 wins. All logic lives 100% on-c
 
 - ✅ Built in Solidity `^0.8.24` 
 - 🎮 Turn-based mechanics
-- 👥 Max 2 players per race
+- 👥 Max 2 players per race 
 - 🎯 Finish line at `100`
 - 📦 No tokens or oracles — pure Solidity logic
 
