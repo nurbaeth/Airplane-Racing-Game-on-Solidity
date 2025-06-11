@@ -10,7 +10,7 @@ The first player to cross the finish line at 100 wins. All logic lives 100% on-c
   
 > ✈️ Fastest plane wins.   
 > 🧠 Strategy matters.  
-> 🔐 Trustless. Verifiable. Immutable.
+> 🔐 Trustless. Verifiable. Immutable.  
 
 ## 🧱 Smart Contract
 
