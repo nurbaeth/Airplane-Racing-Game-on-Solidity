@@ -9,7 +9,7 @@ Two players register to race their airplanes. Each turn, they move forward by 1�
 The first player to cross the finish line at 100 wins. All logic lives 100% on-chain.  
     
 > ✈️ Fastest plane wins.     
-> 🧠 Strategy matters.    
+> 🧠 Strategy matters.      
 > 🔐 Trustless. Verifiable. Immutable.  
 
 ## 🧱 Smart Contract
