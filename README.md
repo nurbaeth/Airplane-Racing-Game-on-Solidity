@@ -13,7 +13,7 @@ The first player to cross the finish line at 100 wins. All logic lives 100% on-c
 > 🔐 Trustless. Verifiable. Immutable.    
   
 ## 🧱 Smart Contract 
-
+ 
 - ✅ Built in Solidity `^0.8.24`     
 - 🎮 Turn-based mechanics   
 - 👥 Max 2 players per race     
