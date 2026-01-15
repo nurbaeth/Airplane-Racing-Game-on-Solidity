@@ -1,4 +1,4 @@
-# 🛩️ Airplane Racing Game (Solidity)          
+# 🛩️ Airplane Racing Game (Solidity)           
           
 A fully on-chain, turn-based airplane racing game built in Solidity.           
 No tokens. No rewards. Just fun.          
