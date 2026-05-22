@@ -3,7 +3,7 @@
 A fully on-chain, turn-based airplane racing game built in Solidity.              
 No tokens. No rewards. Just fun.             
             
-## 🚀 About the Game            
+## 🚀 About the Game             
         
 Two players register to race their airplanes. Each turn, they move forward by 1–10 units.       
 The first player to cross the finish line at 100 wins. All logic lives 100% on-chain.    
